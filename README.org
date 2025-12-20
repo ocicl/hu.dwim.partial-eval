@@ -1,0 +1,9 @@
+* hu.dwim.partial-eval
+
+Partial evaluation framework for Common Lisp.
+
+|---------+----------------------------------------------------------|
+| source  | git:https://github.com/hu-dwim/hu.dwim.partial-eval.git |
+| commit  | f9babc7                                                  |
+| systems | hu.dwim.partial-eval                                     |
+|---------+----------------------------------------------------------|
